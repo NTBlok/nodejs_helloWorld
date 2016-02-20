@@ -1,6 +1,6 @@
 /*
  * main.js
- * Copyright (C) 2016 ubuntu <ubuntu@ip-172-31-19-147>
+ * Copyright (C) 2016 ubuntu 
  *
  * Distributed under terms of the MIT license.
  */
